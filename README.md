@@ -12,8 +12,9 @@ I am a person open to constructive criticism, so if you have good ideas please c
   <a href="https://github.com/rodrigospimentacwb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigospimentacwb&count_private=true&show_icons=true&theme=react"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigospimentacwb&count_private=true&show_icons=true&theme=react&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+  </a>
 </div>
-<div style="display: inline_block"><br>  
+<div style="display: inline_block" ><br>  
   <img align="center" alt="Arduino" height="50" width="60" src="https://github.com/rodrigospimentacwb/devicons/blob/master/arduino-original.svg">
   <img align="center" alt="Docker" height="50" width="60" src="https://github.com/rodrigospimentacwb/devicons/blob/master/docker-original-wordmark.svg">
   <img align="center" alt="IntelliJ" height="50" width="60" src="https://github.com/rodrigospimentacwb/devicons/blob/master/intellij-plain.svg">
