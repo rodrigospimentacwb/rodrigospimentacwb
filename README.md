@@ -10,8 +10,8 @@ I am a person open to constructive criticism, so if you have good ideas please c
 
 <div>
   <a href="https://github.com/rodrigospimentacwb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigospimentacwb&count_private=true&show_icons=true&theme=react"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigospimentacwb&count_private=true&show_icons=true&theme=react&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigospimentacwb&count_private=true&show_icons=true&theme=react&custom_title=Pepper's Github Stats&include_all_commits=true&count_private=true&cache_seconds=14400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigospimentacwb&count_private=true&show_icons=true&theme=react&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats&cache_seconds=14400"/>
   </a>
 </div>
 <div style="display: inline_block" ><br>  
