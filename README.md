@@ -1,4 +1,4 @@
-# Hi, my name is Rodrigo. 
+# Hi, my name is Rodrigo, but call me Pepper =)
 
 I'm a very curious guy and I always like to learn new things. 
 
