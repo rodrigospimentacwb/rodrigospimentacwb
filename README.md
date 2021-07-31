@@ -40,4 +40,7 @@ I am a person open to constructive criticism, so if you have good ideas please c
 </div>
 
 ##
-Layout theme by: https://github.com/anuraghazra/github-readme-stats
+Layout: 
+ * https://github.com/rafaballerini
+ * https://github.com/anuraghazra/github-readme-stats
+ 
