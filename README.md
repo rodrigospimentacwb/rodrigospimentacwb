@@ -13,7 +13,8 @@ I am a person open to constructive criticism, so if you have good ideas please c
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigospimentacwb&count_private=true&show_icons=true&theme=react"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigospimentacwb&count_private=true&show_icons=true&theme=react&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block"><br>  
+  <img align="center" alt="Arduino" height="50" width="60" src="https://github.com/rodrigospimentacwb/devicons/blob/master/arduino-original.svg">
   <img align="center" alt="Docker" height="50" width="60" src="https://github.com/rodrigospimentacwb/devicons/blob/master/docker-original-wordmark.svg">
   <img align="center" alt="IntelliJ" height="50" width="60" src="https://github.com/rodrigospimentacwb/devicons/blob/master/intellij-plain.svg">
   <img align="center" alt="Java" height="50" width="60" src="https://github.com/rodrigospimentacwb/devicons/blob/master/java-original-wordmark.svg">
@@ -27,4 +28,12 @@ I am a person open to constructive criticism, so if you have good ideas please c
   <img align="center" alt="Spring" height="50" width="60" src="https://github.com/rodrigospimentacwb/devicons/blob/master/spring-original-wordmark.svg">
   
   <img align="right" height="200" width="240" src="https://github.com/rodrigospimentacwb/rodrigospimentacwb/blob/main/images/ranger.gif">
+</div>
+
+##
+  
+<div>   
+  <a href="https://www.instagram.com/rodrigospepper/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	 
+  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rodrigo-pimenta-bb857925" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
